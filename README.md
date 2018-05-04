@@ -1,5 +1,3 @@
-#### **July 18th 2018 (during [CNS 2018](https://ocns.memberclicks.net/cns-2018 "CNS 2018")), Seattle**
-
 Large neural networks, biological or artificial, can learn complex input-output relations. During learning, the network dynamics are often constrained to a low-dimensional manifold despite available high-dimensional space. The mechanism behind this space dimensionality confinement is yet unclear. 
 
 Current technological advances in chronic population recordings and optogenetics provide the tools to measure and manipulate the reorganization of this state-space structure in neural circuits in awake, behaving animals during learning. 
