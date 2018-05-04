@@ -1,6 +1,3 @@
-# CNS 2018 workshop:  
-### How does learning reshape dimensionality of collective network activity?
-
 #### **July 18th 2018 (during [CNS 2018](https://ocns.memberclicks.net/cns-2018 "CNS 2018")), Seattle**
 
 Large neural networks, biological or artificial, can learn complex input-output relations. During learning, the network dynamics are often constrained to a low-dimensional manifold despite available high-dimensional space. The mechanism behind this space dimensionality confinement is yet unclear. 
