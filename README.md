@@ -1,3 +1,4 @@
+##### **[CNS 2018 workshop](http://www.cnsorg.org/cns-2018)**
 Large neural networks, biological or artificial, can learn complex input-output relations. During learning, the network dynamics are often constrained to a low-dimensional manifold despite available high-dimensional space. The mechanism behind this space dimensionality confinement is yet unclear. 
 
 Current technological advances in chronic population recordings and optogenetics provide the tools to measure and manipulate the reorganization of this state-space structure in neural circuits in awake, behaving animals during learning. 
@@ -13,16 +14,16 @@ More specifically, we will explore the following questions:
 Note that the early registration deadline for the Seattle meeting (including workshops) is now very close: May 7 for non-members of OCNS, and May 16 for members.
 
 ### Speakers: 
-* SueYeon Chung (Harvard University)
-* Rainer Engelken (Columbia University)
-* Ila Fiete  (UT Austin) (*tbc*)
-* Surya Ganguli (Stanford University) (*tbc*)
-* Guillaume Lajoie (Université de Montréal)
-* Luca Mazzucato (Columbia University, University of Oregon)
-* Stefano Recanatesi (University of Washington)
-* Merav Stern (University of Washington)
-* Evelyn Tang (University of Pennsylvania)
-* Zack Kilpatrick (University of Colorado Boulder)
+* [SueYeon Chung](https://sites.google.com/site/sueyeonchung/) (Harvard University) 
+* [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University)
+* [Ila Fiete](https://clm.utexas.edu/fietelab/) (UT Austin) (*tbc*)
+* [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html)(Stanford University) (*tbc*)
+* [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal)
+* [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon)
+* [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington)
+* [Merav Stern](https://faculty.washington.edu/ms4325/) (University of Washington)
+* [Evelyn Tang](https://scholar.google.com/citations?user=CQbaZpMAAAAJ&hl=en) (University of Pennsylvania)
+* [Zack Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder) 
 
 
 ### Schedule: 
