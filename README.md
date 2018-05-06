@@ -17,7 +17,7 @@ Note that the early registration deadline for the Seattle meeting (including wor
 * [SueYeon Chung](https://sites.google.com/site/sueyeonchung/) (Harvard University) 
 * [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University)
 * [Ila Fiete](https://clm.utexas.edu/fietelab/) (UT Austin) (*tbc*)
-* [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html)(Stanford University) (*tbc*)
+* [Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html) (Stanford University) (*tbc*)
 * [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal)
 * [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon)
 * [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington)
