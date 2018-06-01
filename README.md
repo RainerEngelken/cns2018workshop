@@ -35,4 +35,4 @@ coming soon
 * Guillaume Lajoie, Dept. de Mathématiques et Statistiques, Université de Montréal
 * Merav Stern, Department of Applied Mathematics, University of Washington
 
-![visualization of low-dimensional attraktor of chaotic firing-rate network by Rainer Engelken](http://www.columbia.edu/~re2365/attractor.png)
+![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](http://www.columbia.edu/~re2365/attractor.png)
