@@ -14,16 +14,26 @@ More specifically, we will explore the following questions:
 Note that the early registration deadline for the Seattle meeting (including workshops) is now very close: May 7 for non-members of OCNS, and May 16 for members.
 
 ### Speakers: 
-* [SueYeon Chung](https://sites.google.com/site/sueyeonchung/) (Harvard University) 
-* [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University)
-* [Ingmar Kanitscheider](http://ctcn.utexas.edu/member/ingmar-kanitscheider/) (UT Austin) (*tbc*)
-* [Zack Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder) 
-* [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal)
-* [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon)
-* [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington)
-* [Merav Stern](https://faculty.washington.edu/ms4325/) (University of Washington)
-* [Evelyn Tang](https://scholar.google.com/citations?user=CQbaZpMAAAAJ&hl=en) (University of Pennsylvania)
-* [Alex Williams](http://alexhwilliams.info/) (Stanford University)
+* [SueYeon Chung](https://sites.google.com/site/sueyeonchung/) (Harvard University):  
+*Classification and geometry of neural manifolds, and the application to deep networks*
+* [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University):  
+*Dimensionality and entropy rate of spontaneous and evoked neural rate dynamics*
+* [Ingmar Kanitscheider](http://ctcn.utexas.edu/member/ingmar-kanitscheider/) (UT Austin) (*tbc*):  
+*TBA*
+* [Zack Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder):  
+*Learning continuous attractors in recurrent neural networks*
+* [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal):  
+*External perturbations modulate coding manifolds and dimensionality of motor cortex activity*
+* [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon):  
+*Changes in effective network coupling mediate learning in a trace fear conditioning task*
+* [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington):  
+*Explaining the dimensionality of the activity in RNNs through connectivity motifs*
+* [Merav Stern](https://faculty.washington.edu/ms4325/) (University of Washington):  
+*Increased correlations and decreased activity dimensions during task performance*
+* [Evelyn Tang](https://scholar.google.com/citations?user=CQbaZpMAAAAJ&hl=en) (University of Pennsylvania):  
+*Effective learning is accompanied by high dimensional and efficient representations of neural activity*
+* [Alex Williams](http://alexhwilliams.info/) (Stanford University):  
+*Dimensionality reduction with single trial resolution*
 
 
 ### Schedule: 
