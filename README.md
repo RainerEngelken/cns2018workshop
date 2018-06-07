@@ -18,8 +18,8 @@ Note that the early registration deadline for the Seattle meeting (including wor
 *Classification and geometry of neural manifolds, and the application to deep networks*
 * [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University):  
 *Dimensionality and entropy rate of spontaneous and evoked neural rate dynamics*
-* [Ingmar Kanitscheider](http://ctcn.utexas.edu/member/ingmar-kanitscheider/) (UT Austin) (*tbc*):  
-*TBA*
+* [Kameron Decker Harris](http://faculty.washington.edu/kamdh/) (University of Washington):  
+*Connections between dimensionality and network sparsity*
 * [Zack Kilpatrick](https://www.colorado.edu/amath/zpkilpat) (University of Colorado Boulder):  
 *Learning continuous attractors in recurrent neural networks*
 * [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal):  
