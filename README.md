@@ -78,7 +78,8 @@ TBA
 
 [Kameron Decker Harris](http://faculty.washington.edu/kamdh/) (University of Washington):  
 *Connections between dimensionality and network sparsity*  
-TBA
+Synaptic connectivity varies widely across neuronal types: cerebellar granule cells receive five orders of magnitude fewer inputs than the Purkinje cells they innervate. Similar circuits, including the insect mushroom body, also exhibit large divergences in connectivity. In contrast, the number of inputs per neuron in cerebral cortex is more uniform and large. We investigated how the "dimension" of a representation in a population of neurons depends on how many inputs each neuron receives and how this affects associative learning. Our theory predicts that the dimensions these representations are maximized at synaptic connectivities which match those observed anatomically, showing that sparse connectivity is sometimes superior to dense connectivity. When input synapses are subject to supervised plasticity, however, dense wiring becomes advantageous. This is a possible explanation for the differences between "cerebellar" and cortical structures.
+
 
 [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon):  
 *Changes in effective network coupling mediate learning in a trace fear conditioning task*  
