@@ -109,7 +109,10 @@ A fundamental cognitive process is the ability to map value and identity onto ob
 
 16:30-17:00 [Rainer Engelken](https://ctn.zuckermaninstitute.columbia.edu/people/rainer-engelken) (Columbia University):  
 *Dimensionality and entropy rate of spontaneous and evoked neural rate dynamics*  
-TBA
+Cortical circuits exhibit complex activity patterns both spontaneously and evoked by external stimuli. Finding low-dimensional structure in this high-dimensional population activity is a challenge for both experiment and theory. What is the diversity of the collective neural activity and how is it affected by an external stimulus?  
+We present a new approach to answer these long-standing questions using firing-rate networks. Using concepts from dynamical systems theory, we calculate the attractor dimensionality and dynamical entropy rate of these networks. The dimensionality measures the diversity of collective activity states. Dynamical entropy quantifies the uncertainty amplification due to sensitivity to initial conditions. We obtain these two canonical measures of the collective network dynamics from the full set of Lyapunov exponents. Lyapunov exponents measure the exponential sensitivity to small perturbations in the tangent space along a trajectory. Our approach is applicable to arbitrary network topology and firing-rate dynamics.  
+For concreteness, we consider a randomly-wired firing-rate network that exhibits chaotic rate fluctuations for sufficiently strong synaptic weights. We show that dynamical entropy scales logarithmically with synaptic coupling strength, while the attractor dimensionality exponentially saturates. Thus, despite the increasing dynamic uncertainty, the diversity of collective activity saturates for strong coupling. We find that a varying external stimulus drastically reduces both entropy and dimensionality.
+Our study opens a novel avenue for characterizing the complex dynamics of rate networks and the geometric structure of the corresponding high-dimensional chaotic attractor. This not only gives a deeper understanding of the dynamics but also will help harness its computational capacities, e.g. for plasticity and learning of stable trajectories.
 
 
 ![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](http://www.columbia.edu/~re2365/attractor.png)
