@@ -83,7 +83,7 @@ Synaptic connectivity varies widely across neuronal types: cerebellar granule ce
 
 [Luca Mazzucato](https://lucamazzucato.weebly.com/) (Columbia University, University of Oregon):  
 *Changes in effective network coupling mediate learning in a trace fear conditioning task*  
-TBA
+Episodic memory requires linking events in time, a function dependent on the hippocampus. In `trace' fear conditioning, animals learn to associate a neutral cue with an aversive stimulus despite their separation in time by a delay period on the order of tens of seconds, but how this temporal association forms remains unclear. Here we track neural population dynamics over the complete time-course of learning and show that, in contrast to previous theories, the hippocampus does not generate persistent activity to bridge this gap. Instead learning is concomitant with the reorganization of neuronal covariance, where clusters of co-active neurons propagate stimulus information without temporal regularity. We characterize learning as the emergence of a consistent alignment of low-rank structures in covariance space across trials. Using latent space models, we demonstrate that such alignment is due to the stochastic reactivation of stimulus-specific neural assemblies occurring after learning. These data suggest that the network may maintain information across time delays by modifying the effective coupling between neurons.
 
 [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal):  
 *External perturbations modulate coding manifolds and dimensionality of motor cortex activity*  
