@@ -74,7 +74,14 @@ Continuous attractors are a convenient conceptual model of the neural computatio
 
 [SueYeon Chung](https://sites.google.com/site/sueyeonchung/) (Harvard University):  
 *Classification and geometry of neural manifolds, and the application to deep networks*  
-TBA
+Object manifolds arise when a neural population responds to an ensemble of sensory signals associated with different physical features (e.g., orientation, pose, scale, location, and intensity) of the same perceptual object. Object recognition and discrimination require classifying the manifolds in a manner that is insensitive to variability within a manifold. How neuronal systems give rise to invariant object classification and recognition is a fundamental problem in brain theory as well as in machine learning. 
+
+We studied the ability of a readout network to classify objects from their perceptual manifold representations. We developed a statistical mechanical theory for the linear classification of manifolds with arbitrary geometries. We show how special anchor points on the manifolds can be used to define novel geometrical measures of radius and dimension which can explain the linear separability of manifolds of various geometries. Theoretical predictions are corroborated by numerical simulations using recently developed algorithms to compute maximum margin solutions for manifold dichotomies.
+
+Our theory and its extensions provide a powerful and rich framework for applying statistical mechanics of linear classification to data arising from perceptual neuronal responses as well as to artificial deep networks trained for object recognition tasks. We demonstrate results from applying our method to both neuronal networks and deep networks for visual object recognition tasks. 
+
+Exciting future work lies ahead as manifold representations of the sensory world are ubiquitous in both biological and artificial neural systems. Questions for future work include: How do neural manifold representations reformat in biological sensory hierarchies? Could we characterize dynamical neural manifolds for complex sequential stimuli and behaviors? How do neural manifold representations evolve during learning? Can neural manifold separability used as a design principle for artificial deep networks? 
+
 
 [Kameron Decker Harris](http://faculty.washington.edu/kamdh/) (University of Washington):  
 *Connections between dimensionality and network sparsity*  
