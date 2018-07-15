@@ -108,7 +108,7 @@ TBA
 
 [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington):  
 *Explaining the dimensionality of the activity in RNNs through connectivity motifs*  
-TBA
+How does connectivity in RNNs combined with its inputs shapes the response of the network? We approach this question by relating the internal network response to the statistical prevalence of connectivity motifs, a set of surprisingly simple and local statistics of the network topology. Through this framework we compute the dimensionality of the response. The dimensionality that we study is tightly link to the number of PCA components that are needed to describe the state of the network. We study this measure at the vary of the connectivity (statistics of motifs) and of the input structure. We find that different network topologies are able to expand, compress or equalize the dimensionality of the inputs. This can be accomplished locally at the single neuron level by increasing or decreasing specific network motifs (e.g. divergent connections). The framework we develop provides theoretical tools to link the connectivity of neural network systems to high level descriptors such as the dimensionality of the network response to inputs.
 
 [Evelyn Tang](https://scholar.google.com/citations?user=CQbaZpMAAAAJ&hl=en) (University of Pennsylvania):  
 *Effective learning is accompanied by high dimensional and efficient representations of neural activity*  
