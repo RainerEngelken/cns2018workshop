@@ -104,7 +104,7 @@ Neural dimensionality is typically defined based on trial-averaged population ac
 
 [Merav Stern](https://faculty.washington.edu/ms4325/) (University of Washington):  
 *Increased correlations and decreased activity dimensions during task performance*  
-TBA
+When we learn a new task, changes in our neural activity take place in order to accumulate and act upon relevant information. These changes can appear with different magnitudes in multiple brain areas. To understand the dynamics and ultimately the mechanisms of these changes, we follow mice as they learn to perform a visual change detection task and use wide-field GCaMP signaling to record their neural activity across the dorsal surface of the cortex. We also study random neural network models with cortical-resembling high-level area structures; by iteratively training these networks to perform the task we assess the similarities and differences in the mouse cortex and artificial recurrent networks. We find that initially, during the naïve behavioral stage, the visual cortex alone responds to the changing stimuli. As the learning progresses, frontal areas respond as well, and eventually, at the expert level, the whole mouse cortex responds to task-relevant stimuli. Cortical activity becomes correlated across all areas, and responses in general become more stereotyped with precise temporal dynamics. Moreover, the dimension of this activity decreases as training progresses.  Our artificial neural networks show similar learning-related phenomena.
 
 [Stefano Recanatesi](https://faculty.washington.edu/etsb/) (University of Washington):  
 *Explaining the dimensionality of the activity in RNNs through connectivity motifs*  
