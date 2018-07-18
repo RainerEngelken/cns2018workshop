@@ -33,7 +33,7 @@ Note that the early registration deadline for the Seattle meeting (including wor
 11:30-12:00 [Guillaume Lajoie](https://dms.umontreal.ca/~lajoie/) (Université de Montréal):  
 *External perturbations modulate coding manifolds and dimensionality of motor cortex activity*  
 12:00-12:30 [Alex Williams](http://alexhwilliams.info/) (Stanford University):  
-*Dimensionality reduction with single trial resolution* 
+*Alternative perspective on dimensionality* 
 
 
 12:30-14:00 _Lunch break_  
@@ -99,7 +99,7 @@ Stimulation of neurons in the brain can shape neural activity, synaptic connecti
 In this talk, I will discuss recent findings that uncover the neural effects of a hotly debated form of non-invasive transcranial electric stimulation called tDCS (transcranial direct current stimulation) and its influence on population coding in cortex. Based on experimental data from macaque motor cortex (MC) during a reach task, I will describe dimension-based metrics to track how stimulation affects population coding in MC circuits. I will discuss how such metrics can track population-wide changes in task-relevant dynamics, and how they may be used for targeted stimulation design. 
 
 [Alex Williams](http://alexhwilliams.info/) (Stanford University):  
-*Dimensionality reduction with single trial resolution*  
+*Alternative perspective on dimensionality*  
 Neural dimensionality is typically defined based on trial-averaged population activity, however it is of substantial interest to understand how neural dynamics change and evolve on a trial-by-trial basis due to changes in attention, motivation, or learning. Defining and measuring dimensionality with single-trial resolution is complicated by the fact that neural activity and animal behaviors can be highly stochastic, even under nominally identical trials. In this talk, I will explore two sources of single-trial variability and propose simple statistical methods to account for them. First, to account for trial-to-trial variation in amplitude (e.g., gain modulation), I propose the use of classic tensor decomposition methods. Second, to account for trial-to-trial variation in the latency or speed of neural dynamics (e.g. changes in reaction time), I propose a family of simple time warping models. In both cases, we find that these non-trial-averaged analyses provide much richer visualizations and nuanced understandings of experimental data derived from mice, rats, and primate models on diverse behavioral tasks. This work demonstrates the ability of unsupervised learning methods to uncover hidden features in neural data, which may be overlooked by classic dimensionality reduction methods.
 
 [Merav Stern](https://faculty.washington.edu/ms4325/) (University of Washington):  
